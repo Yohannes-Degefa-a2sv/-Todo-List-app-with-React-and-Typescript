@@ -42,7 +42,9 @@ Click the "Delete" button next to it.
 # To run this code on your local machine 
 
 Step1: Clone this repository 
+
 Step2: run 'npm install' or 'npm i'  in the directory where you cloned this repo 
+
 Step3: run 'npm start'  
 
 
